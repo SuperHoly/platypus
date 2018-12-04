@@ -1,4 +1,4 @@
 import pygame
 import random
 
-b = 6
+a = 5
